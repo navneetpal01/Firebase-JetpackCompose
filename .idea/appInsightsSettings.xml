@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.example.firebase_jetpackcompose" />
+                  <option name="mobileSdkAppId" value="1:144625430484:android:e40ef0be36118d8da7f041" />
+                  <option name="projectId" value="fir-jetpackcompose-34c3f" />
+                  <option name="projectNumber" value="144625430484" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
